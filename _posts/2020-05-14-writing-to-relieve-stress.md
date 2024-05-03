@@ -11,7 +11,7 @@ comments: false
 permalink: writing-to-relieve-stress
 ---
 
-Feeling stressed? A pen and a piece of paper can be powerful tools to help you unwind. Research shows that even brief writing prompts can improve both your mental and physical health.
+[Feeling stressed?](https://mindease.io/) A pen and a piece of paper can be powerful tools to help you unwind. Research shows that even brief writing prompts can improve both your [mental health](https://apps.apple.com/us/app/panic-attack-help-mind-ease/id1439527291) and physical health.
 
 ## Brief expressive writing
 In a [research study](https://pdfs.semanticscholar.org/5d44/60d7c5afaede2b79e52dd94926b9dd079fb8.pdf), participants were randomly assigned to write about a traumatic event, a deeply wonderful experience, or their shoes (the control group) for 2 minutes a day, 2 days in a row. Even this short exercise resulted in participants in the traumatic and positive event groups having fewer health complaints 4-6 weeks later over the control group.

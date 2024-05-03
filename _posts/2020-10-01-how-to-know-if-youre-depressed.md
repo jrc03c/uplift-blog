@@ -42,7 +42,7 @@ The most common symptoms of depression are listed below. Not everyone with depre
 
 [Crisis and suicide warning signs](https://suicidepreventionlifeline.org/help-someone-else/) are particularly important to watch out for, as depression can be life-threatening.
 
-Many people who feel depressed also feel anxious. There’s a lot of overlap between symptoms of depression and those of anxiety. In fact, anxiety and depression occur together at least 50% of the time<sup>ii</sup>.
+Many people who feel depressed also feel anxious. There’s a lot of overlap between symptoms of depression and those of [anxiety](https://apps.apple.com/us/app/panic-attack-help-mind-ease/id1439527291). In fact, [anxiety and depression](https://play.google.com/store/apps/details?id=com.sparkwave.mindease) occur together at least 50% of the time<sup>ii</sup>.
 
 ## How do depression symptoms affect people?
 The symptoms of depression aren’t just uncomfortable, they affect your life. They may get in the way of relationships, work, and meeting goals.

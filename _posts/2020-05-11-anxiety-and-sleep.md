@@ -11,7 +11,7 @@ comments: false
 permalink: anxiety-and-sleep
 ---
 
-Getting a good night's sleep can do wonders for your energy and mood. Poor sleep can contribute to anxiety and depression, so a healthy rest can improve your mental as well as physical health.
+Getting a good night's sleep can do wonders for your energy and mood. Poor sleep can contribute to [anxiety and depression](https://play.google.com/store/apps/details?id=com.sparkwave.mindease), so a healthy rest can improve your mental as well as physical health.
 
 Use this checklist to find new strategies to improve your sleep.
 
@@ -26,7 +26,7 @@ Use this checklist to find new strategies to improve your sleep.
 - **Try an app that helps with anxiety.** An app such as [UpLift](https://www.uplift.app/) helps users relieve anxiety that can interfere with sleep. For example, UpLift helps you tackle [Thinking Errors](https://www.uplift.app/blog/challenging-thinking-errors) that can keep you up at night (e.g., “I’m going to be up all night and have a horrible day tomorrow”) or keep you in bed longer than is helpful (e.g., “I can’t deal with today. I’m going to bed”).
 - **Set some worry time.** If you're prone to worry at night, set aside some time earlier in the evening to do your worrying. Then, do your best to keep your problems out of your bed by refocusing your attention on a non-worry topic. If you cannot refocus your mind, leave your bedroom and write down a list of things to attend to in the morning. Then, return to bed.
 - **Increase your exercise.** Exercise regularly to help deepen your sleep and make it easier for you to fall asleep. Exercise is also helpful for improving low mood. Aim to do at least 15 minutes of aerobic activity, or whatever feels comfortable to you, such as jogging, brisk walking, or playing an outdoor sport game. Do be sure to exercise no later than 4 hours before bedtime.
-- **Cut down on all caffeine.** Caffeine can worsen anxiety as well as wake you up at night or lead to more shallow sleep, even if you have it earlier in the day. Stop consuming caffeine at *least* 6 hours before bedtime. Some studies have shown that even drinks labeled as "decaf" may have some remaining caffeine that could interfere with sleep. If you're especially sensitive to caffeine, you may also want to abstain from decaf.
+- **Cut down on all caffeine.** Caffeine can worsen [anxiety](https://apps.apple.com/us/app/panic-attack-help-mind-ease/id1439527291) as well as wake you up at night or lead to more shallow sleep, even if you have it earlier in the day. Stop consuming caffeine at *least* 6 hours before bedtime. Some studies have shown that even drinks labeled as "decaf" may have some remaining caffeine that could interfere with sleep. If you're especially sensitive to caffeine, you may also want to abstain from decaf.
 - **Avoid alcohol within the 4 hours leading up to bed**. Alcohol may help you relax and fall asleep, but it can decrease sleep quality, worsen sleep apnea, worsen anxiety, and even lead you to wake up very early or in the middle of the night. That's because when the sedative effects wear off, there is often a rebound of activity in the brain that can cause you to wake up well before you've gotten enough rest.
 - **Avoid nicotine.** Nicotine is a stimulant and promotes wakefulness and can worsen anxiety, so avoid smoking altogether, or at least more than you typically would in the 4 hours leading up to bed.
 

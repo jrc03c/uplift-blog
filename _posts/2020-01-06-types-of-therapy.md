@@ -17,7 +17,7 @@ You may see a therapist say they practice "Eclectic" or "Integrative" therapy. T
 
 
 ## Cognitive Behavioral Therapy (CBT)
-Cognitive behavioral therapy (CBT) has been around for over 30 years and has the most evidence supporting its effectiveness. For depression in particular, it's considered the gold standard in psychotherapy, and is beneficial for a multitude of other mental health issues.
+[Cognitive behavioral therapy (CBT)](https://mindease.io/wellness-blog/mind-ease-our-cbt-modules) has been around for over 30 years and has the most evidence supporting its effectiveness. For depression in particular, it's considered the gold standard in psychotherapy, and is beneficial for a multitude of other mental health issues.
 
 CBT is largely focused on the present, as opposed to the past. It has the following characteristics:
 - **CBT uses 'homework.'** Because CBT is about teaching the _client_ skills, rather than relying on the skills of the therapist, CBT utilizes extensive out-of-session assignments, asking the client to apply and practice concepts and follow through on plans made in-session.

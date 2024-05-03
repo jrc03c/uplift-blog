@@ -15,13 +15,13 @@ Think of all the different ways you care for your body. You brush your teeth twi
 
 Your body is not the only component in your overall wellness, though—there’s also your mind to consider. Since few of us are taught to practice daily care of our mental health, you may need to experiment to figure out what helps you feel your best. In the long run, being proactive about your emotional well-being can pay huge dividends.
 
-Below we’ll discuss how you can practice emotional hygiene to tend to an emotional wound, recover from deeper hurt, or do maintenance activities that will help you build up strong emotional health and resilience.
+Below we’ll discuss how you can [practice emotional hygiene](https://mindease.io/) to tend to an emotional wound, recover from deeper hurt, or do maintenance activities that will help you build up strong emotional health and resilience.
 
 ## Putting Together Your Emotional First Aid Kit
 
 <amp-img alt="first-aid-kit-hiking-boots-wood" src="https://www.uplift.app/blog/assets/images/shutterstock_88413559.jpg" width="1200" height="800" layout="responsive"></amp-img>
 
-Just as personal hygiene is necessary to physical health, emotional hygiene is equally important to psychological health. And when something causes us anxiety or distress, there are steps we can take to practice emotional first aid—much like how we would put an antibiotic ointment and a band-aid over a cut.
+Just as personal hygiene is necessary to physical health, emotional hygiene is equally important to psychological health. And when something causes us [anxiety or distress](https://apps.apple.com/us/app/panic-attack-help-mind-ease/id1439527291), there are steps we can take to practice emotional first aid—much like how we would put an antibiotic ointment and a band-aid over a cut.
 
 In his [TED talk](https://www.ted.com/talks/guy_winch_the_case_for_emotional_hygiene), psychologist Guy Winch discusses the importance of treating psychological wounds caused by things like rejection, loneliness, and failure with emotional first aid. Some of his [key tactics](https://ideas.ted.com/7-ways-to-practice-emotional-first-aid/) are to:
   - **Acknowledge emotional pain.** Recognize negative feelings when they arise (without judgment). Pay extra attention if, after a reasonable amount of time passes, those feelings stay the same or get worse. That can be a sign they need more intensive treatment.
@@ -32,7 +32,7 @@ It may seem at first that treating psychological pain is not as straightforward 
 
 ## Needing More Intensive Care
 
-Emotional hygiene can be likened to maintenance (just like brushing and flossing daily maintains your dental health). On the other hand, sometimes a situation is more serious, beyond the scope of treating more commonplace psychological wounds with tools in our emotional first aid kit. These include:
+[Emotional hygiene](https://play.google.com/store/apps/details?id=com.sparkwave.mindease) can be likened to maintenance (just like brushing and flossing daily maintains your dental health). On the other hand, sometimes a situation is more serious, beyond the scope of treating more commonplace psychological wounds with tools in our emotional first aid kit. These include:
   - **Mental illness.** Think about this: if you had a broken bone, you wouldn’t be expected to take care of it by yourself, right? You’d rely on doctors, medical equipment, and medication to treat any injury or illness that requires a more intensive level of care than what home remedies or over-the-counter medicine can provide. Likewise, the importance of having a healthcare team that includes a psychiatrist and/or therapist can’t be overstated in treating mental illness.
   - **Suicidal thoughts.** While not all thoughts of suicide are considered high-risk by mental health professionals, if someone has the intention to act on their thoughts, has made a plan, and has access to lethal means, it’s an emergency situation that requires immediate attention<sup>i</sup>. A set of [six risk-assessment questions](http://cssrs.columbia.edu/wp-content/uploads/Community-Card-2women-2018c.pdf) developed by psychiatrists at Columbia University can help with assessing risk level. And [creating a safety plan](https://www.verywellmind.com/suicide-safety-plan-1067524) during times when there isn’t immediate risk can help ward off a future crisis.
 

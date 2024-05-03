@@ -13,7 +13,7 @@ permalink: what-is-cognitive-behavioral-therapy
 
 [UpLift](http://www.uplift.app) is based on Cognitive Behavioral Therapy, or CBT.
 
-Cognitive behavioral therapy (CBT) has been around for over 30 years.
+[Cognitive behavioral therapy (CBT)](https://mindease.io/wellness-blog/mind-ease-our-cbt-modules) has been around for over 30 years.
 
 With more evidence supporting its effectiveness than any other psychological treatment in existence, CBT is considered the gold standard in alleviating depression, and is beneficial for a multitude of other mental health issues.
 
@@ -26,7 +26,7 @@ While CBT doesn't deny the importance of the past, it focuses on the present.
 - **CBT focuses on current thoughts and behaviors.** CBT is based on the scientifically-supported discovery that changing current thoughts and behaviors is an effective path towards improved mental health, whether the root-causes of distress are discovered or not.
 - **CBT believes healthier habits can be learned.** CBT follows the principle that behaviors, thoughts, and emotional responses are learned, and therefore, healthier methods can be learned through specific techniques and activities.
 
-CBT disrupts the causes of unhappiness by helping people learn new, more helpful patterns of thought and behavior.
+[CBT disrupts the causes of unhappiness](https://play.google.com/store/apps/details?id=com.sparkwave.mindease) by helping people learn new, more helpful patterns of thought and behavior.
 
 <amp-img alt="happy girl watermelon smile" src="http://www.uplift.app/blog/assets/images/happy_girl_watermelon-1515023115689-589c33041d3c.jpeg" width="912" height="800" layout="responsive"></amp-img>
 
@@ -51,6 +51,6 @@ Because of the time out-of-session spent on homework, the client spends many mor
 
 ## Does CBT work?
 
-CBT is used to help people dealing with significant difficulties improve their lives. From people who just want to break a bad habit, to people experiencing depression, anxiety, eating disorders, sleep problems, chronic pain, and more—hundreds of randomized control studies have been conducted on the effectiveness of CBT in treating all sorts of problems.
+[CBT is used to help people dealing with significant difficulties improve their lives](https://apps.apple.com/us/app/panic-attack-help-mind-ease/id1439527291). From people who just want to break a bad habit, to people experiencing depression, anxiety, eating disorders, sleep problems, chronic pain, and more—hundreds of randomized control studies have been conducted on the effectiveness of CBT in treating all sorts of problems.
 
 CBT for depression has more evidence supporting it than any other type of psychological treatment in existence. **CBT works.**

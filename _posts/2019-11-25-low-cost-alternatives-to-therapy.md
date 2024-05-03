@@ -94,9 +94,9 @@ Unfortunately, several attempts at creating social-networking apps specifically 
 While most mental health apps lack scientific backing, there are a few quality options out there. For example, programs based on [Cognitive Behavioral Therapy](https://www.uplift.app/blog/what-is-cognitive-behavioral-therapy) have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy for depression.
 
 Mental health apps vary widely in their techniques. Costs vary depending on the quality and comprehensiveness of the content offered, from free to about $40/month. Some offer a complete course that mirrors traditional therapy, while others offer a chatbot or individual tools. Here are a few examples:
-  - **Complete Cognitive Behavioral Therapy course**: Modify your thoughts and behaviors in ways that reduce negative moods and increase wellbeing. Example: [UpLift]
-  - **Chatbots**: Have a conversation with a bot that can also guide you through techniques or meditations. Examples: [Wysa] and [Youper]
-  - **Mindfulness apps**: Focus your attention while acknowledging and accepting negative thoughts and emotions. Examples: [Headspace] and [Sanvello]
+  - **Complete Cognitive Behavioral Therapy course**: Modify your thoughts and behaviors in ways that reduce negative moods and increase wellbeing. Example: [Mind Ease](https://apps.apple.com/us/app/panic-attack-help-mind-ease/id1439527291) and [UpLift]
+  - **Chatbots**: Have a conversation with a bot that can also guide you through techniques or meditations. Examples: [Filo by Mind Ease](https://play.google.com/store/apps/details?id=com.sparkwave.mindease), [Wysa], and [Youper]
+  - **Mindfulness apps**: Focus your attention while acknowledging and accepting negative thoughts and emotions. Examples: [Mind Ease](https://mindease.io/), [Headspace], and [Sanvello]
   - **Mood trackers/thought diaries**: Track your moods to better notice patterns in your ups and downs. Examples: [Moodnotes] and [MoodTools]
   - **Other**: Well-being techniques and goal setting. Examples: [Happify] and [SuperBetter]
 
