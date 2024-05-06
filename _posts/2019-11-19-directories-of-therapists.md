@@ -11,7 +11,7 @@ comments: false
 permalink: directories-to-find-a-therapist
 ---
 
-Finding a therapist in your area, that you can afford and is taking patients, can sometimes be difficult. Here are a few websites with good, comprehensive listings that can help in your search.
+[Finding a therapist](https://mindease.io/wellness-blog/how-do-i-find-a-therapist) in your area, that you can afford and is taking patients, can sometimes be difficult. Here are a few websites with good, comprehensive listings that can help in your search.
 
 You can also ask your doctor for a referral. They likely know the therapists available in the area, and can help you find one that will meet your needs.
 

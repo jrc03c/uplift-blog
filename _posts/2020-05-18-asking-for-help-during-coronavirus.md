@@ -59,7 +59,7 @@ Other hotlines:
 - SAMHSA National Helpline: 1-800-662-HELP (4357)
 
 ## Find a therapist, support group, or mental health app
-There are also many online support groups, therapists, apps, and other options for getting mental health support. Check out our [complete guide to finding a therapist](https://www.uplift.app/blog/find-a-therapist-ultimate-guide), which lists additional low-cost options for support, or click the image below to be taken to a pdf download.
+There are also many online support groups, therapists, apps, and other options for [getting mental health support](https://mindease.io/). Check out our [complete guide to finding a therapist](https://www.uplift.app/blog/find-a-therapist-ultimate-guide), which lists additional low-cost options for support, or click the image below to be taken to a pdf download.
 
 [![how to find a therapist download][2]][1]
 

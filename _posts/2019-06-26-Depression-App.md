@@ -30,6 +30,7 @@ permalink: compare-icbt-depression-apps
 [Big White Wall]: <https://www.bigwhitewall.com/>
 [MY3]: <https://my3app.org/>
 [SuperBetter]: <https://www.superbetter.com/>
+[Mind Ease]: <https://mindease.io/>
 
 
 Have you searched “depression” in an app store recently? There are a mind-boggling number of apps to choose from. You may be wanting to give one a try---but how do you know if an app would make you feel better? How do you choose one from the masses?
@@ -84,7 +85,7 @@ So how can you tell if an app has good science behind it and is likely to be eff
 4.	**Ease of use**: Would it be easy to use on a long-term basis? Can you customize it to better suit your needs?
 5.	**Sharing with your therapist**: Can you share your data with your therapist, if you wanted to?
 
-Using the above model can help you decide if an app is likely to be useful. An app that is based on cognitive behavioral therapy (CBT), described next, is one that is also likely to be higher quality.
+Using the above model can help you decide if an app is likely to be useful. An [app that is based on cognitive behavioral therapy (CBT)](https://play.google.com/store/apps/details?id=com.sparkwave.mindease), described next, is one that is also likely to be higher quality.
 
 ## Tip 3: Try a CBT-based app, or one with at least some CBT
 
@@ -103,10 +104,10 @@ Many apps contain some elements of CBT. Currently though, [UpLift] is the only c
 ## Tip 4: Compare different types of depression apps
 
 When comparing apps, consider which type is likely to work for you. The most common depression app types are listed below, along with some higher quality examples.
-  - **Complete CBT course**: Modeled off the highest-quality science of work works for fighting depression. Example: [UpLift]
-  - **Chatbots**: Have a conversation with a bot that can also guide you through techniques or meditations. Examples: [Wysa] and [Youper]
-  - **E-therapy/text therapy**: Connect with a licensed therapist and communicate primarily via text, with some phone or video time. Examples: [BetterHelp] and [Talkspace].
-  - **Mindfulness apps**: Focus your attention while acknowledging and accepting negative thoughts and emotions. Examples: [Headspace] and [Sanvello]
+  - **Complete CBT course**: Modeled off the highest-quality science of work works for fighting depression. Example: [Mind Ease] and [UpLift]
+  - **Chatbots**: Have a conversation with a bot that can also guide you through techniques or meditations. Examples: [Filo by Mind Ease], [Wysa] and [Youper]
+  - **E-therapy/text therapy**: Connect with a licensed therapist and communicate primarily via text, with some phone or video time. Examples: [BetterHelp] and [Talkspace]
+  - **Mindfulness apps**: Focus your attention while acknowledging and accepting negative thoughts and emotions. Examples: [Mind Ease](https://apps.apple.com/us/app/anxiety-relief-by-mind-ease/id1439527291), [Headspace] and [Sanvello]
   - **Mood trackers/thought diaries**: Track your moods to better notice patterns in your ups and downs. Examples: [Moodnotes] and [MoodTools]
   - **Peer support**: Connect with others working toward improving their mental health. Example: [Elevatr] and [Big White Wall]<sup>ix</sup>
   - **Suicide prevention**: Make a plan to stay safe and define who you can reach out to when you’re having thoughts of suicide. Example: [MY3]

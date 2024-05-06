@@ -29,13 +29,13 @@ Want to view this guide offline or as a PDF?
 
 <amp-img alt="therapist and client" src="https://www.uplift.app/blog/assets/images/types_of_therapy.png" width="285" height="154" layout="responsive"></amp-img>
 # Types of Therapy
-There are many different types of therapy. Learning a little about each can help you decide which approach will likely work best for you.
+There are many [different types of therapy](https://mindease.io/wellness-blog/what-types-of-therapy-work-best-for-anxiety). Learning a little about each can help you decide which approach will likely work best for you.
 
 You may see a therapist say they practice "Eclectic" or "Integrative" therapy. This simply means that they use more than one type of therapy in their practice, combining them in some way.
 
 
 ## Cognitive Behavioral Therapy (CBT)
-Cognitive behavioral therapy (CBT) has been around for over 30 years and has the most evidence supporting its effectiveness. For depression in particular, it's considered the gold standard in psychotherapy, and is beneficial for a multitude of other mental health issues.
+[Cognitive behavioral therapy (CBT)](https://play.google.com/store/apps/details?id=com.sparkwave.mindease) has been around for over 30 years and has the most evidence supporting its effectiveness. For depression in particular, it's considered the gold standard in psychotherapy, and is beneficial for a multitude of other mental health issues.
 
 CBT is largely focused on the present, as opposed to the past. It has the following characteristics:
 - **CBT uses 'homework.'** Because CBT is about teaching the _client_ skills, rather than relying on the skills of the therapist, CBT utilizes extensive out-of-session assignments, asking the client to apply and practice concepts and follow through on plans made in-session.
@@ -164,7 +164,7 @@ If you need help applying for insurance, try one of these:
   - [Use the Marketplace call center](https://www.healthcare.gov/apply-and-enroll/get-help-applying/) and a live representative will answer questions and help you apply for coverage.
 
 ## Summary
-If you've been feeling down, it's worth it to explore your options for feeling better. Quality mental health care is an expense that pays off in the long-run. With greater wellbeing comes greater strength in old age, fewer heart issues, faster recovery after a major medical event, and a longer life.
+If you've been [feeling down](https://apps.apple.com/us/app/panic-attack-help-mind-ease/id1439527291), it's worth it to explore your options for feeling better. Quality mental health care is an expense that pays off in the long-run. With greater wellbeing comes greater strength in old age, fewer heart issues, faster recovery after a major medical event, and a longer life.
 
 Besides the health benefits, high wellbeing is a desirable state in its own right. If the above options don't work, don't give up! Check out "Low-Cost Alternatives to Therapy", up next, for more ideas.
 
@@ -252,9 +252,9 @@ Unfortunately, several attempts at creating social-networking apps specifically 
 While most mental health apps lack scientific backing, there are a few quality options out there. For example, programs based on [Cognitive Behavioral Therapy](http://www.uplift.app/blog/what-is-cognitive-behavioral-therapy) have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy for depression.
 
 Mental health apps vary widely in their techniques. Costs vary depending on the quality and comprehensiveness of the content offered, from free to about $40/month. Some offer a complete course that mirrors traditional therapy, while others offer a chatbot or individual tools. Here are a few examples:
-  - **Complete Cognitive Behavioral Therapy course**: Modify your thoughts and behaviors in ways that reduce negative moods and increase wellbeing. Example: [UpLift](http://www.uplift.app?utm_source=therapy_guide)
-  - **Chatbots**: Have a conversation with a bot that can also guide you through techniques or meditations. Examples: [Wysa](https://www.wysa.io/) and [Youper](https://www.youper.ai/)
-  - **Mindfulness apps**: Focus your attention while acknowledging and accepting negative thoughts and emotions. Examples: [Headspace](https://www.headspace.com/) and [Sanvello](https://www.sanvello.com/)
+  - **Complete Cognitive Behavioral Therapy course**: Modify your thoughts and behaviors in ways that reduce negative moods and increase wellbeing. Example: [Mind Ease](https://mindease.io/) and [UpLift](http://www.uplift.app?utm_source=therapy_guide)
+  - **Chatbots**: Have a conversation with a bot that can also guide you through techniques or meditations. Examples: [Filo by Mind Ease](https://play.google.com/store/apps/details?id=com.sparkwave.mindease), [Wysa](https://www.wysa.io/), and [Youper](https://www.youper.ai/)
+  - **Mindfulness apps**: Focus your attention while acknowledging and accepting negative thoughts and emotions. Examples: [Mind Ease](https://mindease.io/), [Headspace](https://www.headspace.com/), and [Sanvello](https://www.sanvello.com/)
   - **Mood trackers/thought diaries**: Track your moods to better notice patterns in your ups and downs. Examples: [Moodnotes](https://moodnotes.thriveport.com) and [MoodTools](http://www.moodtools.org/)
   - **Other**: Well-being techniques and goal setting. Examples: [Happify](http://www.happify.com/) and [SuperBetter](https://www.superbetter.com/)
 

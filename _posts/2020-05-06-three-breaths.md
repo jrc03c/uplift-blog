@@ -11,7 +11,7 @@ comments: false
 permalink: deep-breathing
 ---
 
-As simple as it sounds, taking deep breaths throughout the day can reduce stress and blood pressure, increase oxygen flow throughout your body and have lasting positive effects on wellbeing.
+As simple as it sounds, taking deep breaths throughout the day can [reduce stress](https://play.google.com/store/apps/details?id=com.sparkwave.mindease) and blood pressure, increase oxygen flow throughout your body and have lasting [positive effects on wellbeing](https://apps.apple.com/us/app/panic-attack-help-mind-ease/id1439527291).
 
 Deep breathing is at the core of one of the oldest and most-proven practices of wellbeing - meditation. Meditation practitioners and yogis have incorporated this technique into their practices for millennia. Buddha was pretty calm right? The secret (don't tell) is all in breathing.
 
